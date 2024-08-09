@@ -1,9 +1,3 @@
-  <h2 align='center'>Este es un proyecto de la comunidad:</h2>
-  <div align='center'><a href="https://www.nocountry.tech/" target="_blank">
-      <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
-    </a>
-  </div>
-  <hr>
 
   <!-- PROJECT LOGO -->
   <div align='center'>
@@ -84,7 +78,7 @@ Durante las 5 semanas de desarrollo del producto presentado en el MVP, el equipo
 <br><br>
 
 
-## 🙌 Equipo: s14-10-m-java
+## 🙌 Equipo:
 <br>
 
 ### UX/UI
@@ -102,17 +96,8 @@ Vanesa Casaubon
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/elcicode)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/elcicode) Elcira Ibarra
 
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/felix-andres-betancur-9389ab1a5/)
-[![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/SwatColombia) Felix Andres Betancur Sanchez
-
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/facundo-la-bionda-a31866286/)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/facuu142) Facundo La Bionda
-
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/juanoscco/)
-[![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/jcom-dev) Juan Oscco
-
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/jaobisgreat/)
-[![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/Alexiz0r0) Alexis Oroya
 
 <br>
 
@@ -131,17 +116,12 @@ Vanesa Casaubon
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/lucasvonelm/)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/xlucasve) Lucas Von Elm
 
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/luciarmn/)
-[![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/CodeLuDev) Lucía Romano
-
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/nestorduqueduque/)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/nestorduqueduque) Néstor Duque
 
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/alejandrodev2019/)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/calderonic) Alexis Alejandro Calderón
 
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/agustin-gomez-develop/)
-[![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/Agustingomez98) Agustin Gomez
 <br><br>
 
 ### Project Manager
