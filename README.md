@@ -130,9 +130,3 @@ Vanesa Casaubon
 [![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/guillermo-divan/)
 [![github](./frontend/src/assets/icons-svg/github-icon.svg)](https://github.com/GuillermoDivan) Guillermo Diván
 <br><br>
-
-### QA Tester
-<br>
-
-[![linkedin](./frontend/src/assets/icons-svg/linkedin-icon.svg)](https://www.linkedin.com/in/ivankarnos/)
- Iván Karnos
